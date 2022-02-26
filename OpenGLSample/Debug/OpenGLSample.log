@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\j68ha\OneDrive\Documents\SNHU\CS330\Project\OpenGLSample\Source.cpp(538,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\j68ha\OneDrive\Documents\SNHU\CS330\Project\OpenGLSample\Source.cpp(707,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\j68ha\OneDrive\Documents\SNHU\CS330\Project\OpenGLSample\Source.cpp(708,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\j68ha\OneDrive\Documents\SNHU\CS330\Project\OpenGLSample\Source.cpp(712,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\j68ha\OneDrive\Documents\SNHU\CS330\Project\OpenGLSample\Source.cpp(713,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\j68ha\OneDrive\Documents\SNHU\CS330\Project\OpenGLSample\Source.cpp(714,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\j68ha\OneDrive\Documents\SNHU\CS330\Project\OpenGLSample\Source.cpp(715,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\j68ha\OneDrive\Documents\SNHU\CS330\Project\Debug\OpenGLSample.exe
